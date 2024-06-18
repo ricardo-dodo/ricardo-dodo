@@ -7,9 +7,13 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/ricardo-do) | [GitHub](https://github.com/ricardo-dodo) | [Portfolio](https://ricardo-dodo.netlify.app/)
 
 ## About Me
-I am Ricardo, a dedicated Data Scientist and Software Engineer based in Bandung, Indonesia. I hold a Bachelor's degree in Data Science from Universitas Airlangga. I am gaining valuable experience as a Data/Software Engineer Intern at the Ministry of Finance Indonesia, where I have developed a parser for law documents using PyMuPDF for OCR, IndoBERT, and regex for information extraction. I also led the development of the JDIH dashboard using Next.js, TypeScript, and OpenSearch Query, enhancing the user interface and functionality. Additionally, I developed a dashboard utilizing the RAG Language Model on Azure, improving data visualization and accessibility.
+I am Ricardo, a dedicated Data Scientist and Software Engineer based in Bandung, Indonesia. I hold a Bachelor's degree in Data Science from Universitas Airlangga. Currently, I am gaining valuable experience as a Data/Software Engineer Intern at the Ministry of Finance Indonesia. Here, I developed a parser for law documents using PyMuPDF for OCR, IndoBERT, and regex for information extraction. I led the development of the JDIH dashboard using Next.js, TypeScript, and OpenSearch Query, enhancing the user interface and functionality. Additionally, I created a dashboard utilizing the RAG Language Model on Azure, improving data visualization and accessibility.
+
+![Programming GIF](https://media.giphy.com/media/l0MYv0ZDuHOmHk9wc/giphy.gif)
 
 My technical skills include programming languages such as Python, SQL (Postgres), JavaScript, HTML/CSS, and R. I am proficient in frameworks like Next.js, React, Node.js, Flask, and FastAPI, and have experience with developer tools including Git, Docker, Google Cloud Platform (GCP), VS Code, Visual Studio, PyCharm, and IntelliJ. I am also skilled in using libraries such as pandas, NumPy, and Matplotlib.
+
+![Data Science GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
 With a strong foundation in data science and software engineering, I am passionate about leveraging technology to solve real-world problems and improve data-driven decision-making processes.
 
