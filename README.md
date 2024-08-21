@@ -1,18 +1,42 @@
-# Hi, I'm Ricardo! 👋
+# Ricardo Do | Data Scientist & Software Engineer
 
-![Profile GIF](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
+![Data Enthusiast](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
 
 📍 Bandung, Indonesia  
 📧 [ricardo.sman8bdg@gmail.com](mailto:ricardo.sman8bdg@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/ricardo-do) | [GitHub](https://github.com/ricardo-dodo) | [Portfolio](https://ricardo-dodo.netlify.app/)
 
-## About Me
-I am Ricardo, a dedicated Data Scientist and Software Engineer based in Bandung, Indonesia. I hold a Bachelor's degree in Data Science from Universitas Airlangga. Currently, I am gaining valuable experience as a Data/Software Engineer Intern at the Ministry of Finance Indonesia. Here, I developed a parser for law documents using PyMuPDF for OCR, IndoBERT, and regex for information extraction. I led the development of the JDIH dashboard using Next.js, TypeScript, and OpenSearch Query, enhancing the user interface and functionality. Additionally, I created a dashboard utilizing the RAG Language Model on Azure, improving data visualization and accessibility.
+## Professional Summary
+Dedicated Data Scientist and Software Engineer with a Bachelor's degree in Data Science from Universitas Airlangga. Currently interning at the Ministry of Finance Indonesia, where I've led key projects in document parsing, dashboard development, and data visualization using cutting-edge technologies.
 
-My technical skills include programming languages such as Python, SQL (Postgres), JavaScript, HTML/CSS, and R. I am proficient in frameworks like Next.js, React, Node.js, Flask, and FastAPI, and have experience with developer tools including Git, Docker, Google Cloud Platform (GCP), VS Code, Visual Studio, PyCharm, and IntelliJ. I am also skilled in using libraries such as pandas, NumPy, and Matplotlib.
+## Technical Expertise
+- **Languages:** Python, SQL (Postgres), JavaScript, TypeScript, HTML/CSS, R
+- **Frameworks:** Next.js, React, Node.js, Flask, FastAPI
+- **Tools:** Git, Docker, Google Cloud Platform (GCP), Azure
+- **IDEs:** VS Code, Visual Studio, PyCharm, IntelliJ
+- **Libraries:** pandas, NumPy, Matplotlib, PyMuPDF, IndoBERT
 
-With a strong foundation in data science and software engineering, I am passionate about leveraging technology to solve real-world problems and improve data-driven decision-making processes.
+## Key Projects
+1. **Law Document Parser**
+   - Developed using PyMuPDF for OCR, IndoBERT, and regex for information extraction
+   - Enhanced document processing efficiency and accuracy
+
+2. **JDIH Dashboard**
+   - Led development using Next.js, TypeScript, and OpenSearch Query
+   - Improved user interface and functionality for legal information access
+
+3. **RAG Language Model Dashboard**
+   - Created on Azure platform
+   - Significantly improved data visualization and accessibility
+
+## Professional Experience
+**Data/Software Engineer Intern** | Ministry of Finance Indonesia
+- Spearheaded development of critical data processing and visualization tools
+- Collaborated with cross-functional teams to implement innovative solutions
+
+## Education
+**Bachelor of Science in Data Science** | Universitas Airlangga
 
 ---
 
-Feel free to explore my [GitHub](https://github.com/ricardo-dodo) for more details on my projects and contributions. Connect with me on [LinkedIn](https://www.linkedin.com/in/ricardo-do) or check out my [Portfolio](https://ricardo-dodo.netlify.app/) to learn more about my work.
+I'm passionate about leveraging technology to solve real-world problems and improve data-driven decision-making processes. For more details on my projects and contributions, please visit my [GitHub](https://github.com/ricardo-dodo) or [Portfolio](https://ricardo-dodo.netlify.app/).
