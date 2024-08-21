@@ -29,14 +29,5 @@ Dedicated Data Scientist and Software Engineer with a Bachelor's degree in Data 
    - Created on Azure platform
    - Significantly improved data visualization and accessibility
 
-## Professional Experience
-**Data/Software Engineer Intern** | Ministry of Finance Indonesia
-- Spearheaded development of critical data processing and visualization tools
-- Collaborated with cross-functional teams to implement innovative solutions
-
-## Education
-**Bachelor of Science in Data Science** | Universitas Airlangga
-
----
 
 I'm passionate about leveraging technology to solve real-world problems and improve data-driven decision-making processes. For more details on my projects and contributions, please visit my [GitHub](https://github.com/ricardo-dodo) or [Portfolio](https://ricardo-dodo.netlify.app/).
