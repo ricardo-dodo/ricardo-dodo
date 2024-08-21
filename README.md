@@ -1,4 +1,4 @@
-# Ricardo Do | Data Scientist & Software Engineer
+# Ricardo | Data Scientist & Software Engineer
 
 ![Data Enthusiast](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
 
