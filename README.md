@@ -1,6 +1,5 @@
 # Ricardo | Data Scientist & Software Engineer
 
-![Data Enthusiast](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
 
 📍 Bandung, Indonesia  
 📧 [ricardo.sman8bdg@gmail.com](mailto:ricardo.sman8bdg@gmail.com)  
