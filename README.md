@@ -49,3 +49,9 @@ I'm passionate about leveraging technology to solve real-world problems and impr
 
 ## My Programming Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-dodo&layout=compact&theme=dark)
+
+## GitHub Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ricardo-dodo&theme=dark)
+
+## GitHub Activity Graph
+[![Ricardo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ricardo-dodo&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
