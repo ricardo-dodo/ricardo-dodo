@@ -44,8 +44,5 @@ I'm passionate about leveraging technology to solve real-world problems and impr
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?&logo=Google%20Cloud)
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft%20Azure)
 
-## GitHub Statistics
-![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricardo-dodo&show_icons=true&theme=dark)
-
 ## My Programming Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-dodo&layout=compact&theme=dark)
