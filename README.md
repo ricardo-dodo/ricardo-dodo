@@ -32,17 +32,19 @@ I'm passionate about leveraging technology to solve real-world problems and impr
 
 ## Tools and Technologies
 <p align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python"/>
-  <img src="https://img.shields.io/badge/-R-000?&logo=R" alt="R"/>
-  <img src="https://img.shields.io/badge/-Node.js-000?&logo=Node.js" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/-React-000?&logo=React" alt="React"/>
-  <img src="https://img.shields.io/badge/-Next.js-000?&logo=Next.js" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/-Flask-000?&logo=Flask" alt="Flask"/>
-  <img src="https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/-Docker-000?&logo=Docker" alt="Docker"/>
-  <img src="https://img.shields.io/badge/-Google%20Cloud-000?&logo=Google%20Cloud" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/-Azure-000?&logo=Microsoft%20Azure" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/OpenSearch-005571?style=for-the-badge&logo=opensearch&logoColor=white" alt="OpenSearch"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
 </p>
 
 ## My Programming Languages
