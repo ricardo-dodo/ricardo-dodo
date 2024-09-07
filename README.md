@@ -38,11 +38,18 @@ I'm passionate about leveraging technology to solve real-world problems and impr
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
 </p>
 
-## My Programming Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-dodo&layout=compact&theme=dark)
-
-## GitHub Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ricardo-dodo&theme=dark)
+<table>
+  <tr>
+    <td>
+      <h3>My Programming Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-dodo&layout=compact&theme=dark" alt="Top Langs"/>
+    </td>
+    <td>
+      <h3>GitHub Streak Stats</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardo-dodo&theme=dark" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 
 ## GitHub Activity Graph
 [![Ricardo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ricardo-dodo&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
