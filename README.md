@@ -40,11 +40,11 @@ I'm passionate about leveraging technology to solve real-world problems and impr
 
 <table>
   <tr>
-    <td>
+    <td align="center" valign="top" width="50%">
       <h3>My Programming Languages</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-dodo&layout=compact&theme=dark" alt="Top Langs"/>
     </td>
-    <td>
+    <td align="center" valign="top" width="50%">
       <h3>GitHub Streak Stats</h3>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardo-dodo&theme=dark" alt="GitHub Streak"/>
     </td>
