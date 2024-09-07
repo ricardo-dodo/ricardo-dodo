@@ -1,21 +1,12 @@
 # Ricardo | Data Scientist & Software Engineer
 
-
 📍 Bandung, Indonesia  
 📧 [ricardo.sman8bdg@gmail.com](mailto:ricardo.sman8bdg@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/ricardo-do) | [GitHub](https://github.com/ricardo-dodo) | [Portfolio](https://ricardo-dodo.netlify.app/)
 
-## Professional Summary
 Dedicated Data Scientist and Software Engineer with a Bachelor's degree in Data Science from Universitas Airlangga. Currently interning at the Ministry of Finance Indonesia, where I've led key projects in document parsing, dashboard development, and data visualization using cutting-edge technologies.
 
-## Technical Expertise
-- **Languages:** Python, SQL (Postgres), JavaScript, TypeScript, HTML/CSS, R
-- **Frameworks:** Next.js, React, Node.js, Flask, FastAPI
-- **Tools:** Git, Docker, Google Cloud Platform (GCP), Azure
-- **IDEs:** VS Code, Visual Studio, PyCharm, IntelliJ
-- **Libraries:** pandas, NumPy, Matplotlib, PyMuPDF, IndoBERT
-
-## Key Projects
+## Projects
 1. **Law Document Parser**
    - Developed using PyMuPDF for OCR, IndoBERT, and regex for information extraction
    - Enhanced document processing efficiency and accuracy
