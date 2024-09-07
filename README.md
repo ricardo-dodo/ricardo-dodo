@@ -29,5 +29,23 @@ Dedicated Data Scientist and Software Engineer with a Bachelor's degree in Data 
    - Created on Azure platform
    - Significantly improved data visualization and accessibility
 
-
 I'm passionate about leveraging technology to solve real-world problems and improve data-driven decision-making processes. For more details on my projects and contributions, please visit my [GitHub](https://github.com/ricardo-dodo) or [Portfolio](https://ricardo-dodo.netlify.app/).
+
+## Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![R](https://img.shields.io/badge/-R-000?&logo=R)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?&logo=Google%20Cloud)
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft%20Azure)
+
+## GitHub Statistics
+![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricardo-dodo&show_icons=true&theme=dark)
+
+## My Programming Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-dodo&layout=compact&theme=dark)
