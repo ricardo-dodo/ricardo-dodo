@@ -1,8 +1,6 @@
 # Ricardo | Data Scientist & Software Engineer
 
-Dedicated Data Scientist and Software Engineer with a Bachelor's degree in Data Science from Universitas Airlangga. Currently interning at the Ministry of Finance Indonesia, where I've led key projects in document parsing, dashboard development, and data visualization using cutting-edge technologies.
-
-I'm passionate about leveraging technology to solve real-world problems and improve data-driven decision-making processes. For more details on my projects and contributions, please visit my [GitHub](https://github.com/ricardo-dodo) or [Portfolio](https://ricardo-dodo.netlify.app/).
+Dedicated Data Scientist and Software Engineer with a Bachelor's degree in Data Science from Universitas Airlangga. I'm passionate about leveraging technology to solve real-world problems and improve data-driven decision-making processes. For more details on my projects and contributions, please visit my [GitHub](https://github.com/ricardo-dodo) or [Portfolio](https://ricardo-dodo.netlify.app/).
 
 ## Tools and Technologies
 <p align="left">
